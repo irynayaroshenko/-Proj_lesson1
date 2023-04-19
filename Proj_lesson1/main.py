@@ -20,4 +20,9 @@ print(5 * 594)
 print(2970 / 1000)
 print(3 * 55)
 
-
+a = {1, 2, 3}
+b = a.add(4)
+print(b)
+print(a)
+a.add(5)
+print(a)
