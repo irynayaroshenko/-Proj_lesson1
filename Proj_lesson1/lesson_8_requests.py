@@ -10,3 +10,8 @@ data = eval(requests.get(f"https://api.openweathermap.org/data/2.5/weather?q={ci
 # beautiful soup package for work with inet pages
 # Crtl + Alt + L - format json text in new file
 # print(eval(input('>')))  # the shortest calculator in Python
+
+'''
+https://rapidapi.com/hub 
+many APIs to learn, watch
+'''
